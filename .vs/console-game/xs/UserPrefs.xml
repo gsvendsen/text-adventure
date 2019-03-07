@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{75D9C0AC-5151-421D-A30C-0EA1973E071C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="console-game/Game.cs">
+    <Files>
+      <File FileName="console-game/DangerousSpace.cs" Line="1" Column="1" />
+      <File FileName="console-game/Player.cs" Line="1" Column="1" />
+      <File FileName="console-game/Program.cs" Line="1" Column="1" />
+      <File FileName="console-game/Game.cs" Line="69" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.console-game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

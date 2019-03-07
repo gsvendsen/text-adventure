@@ -1,0 +1,5 @@
+﻿Dog
+Ghoul
+Witch
+Cow
+Bug
